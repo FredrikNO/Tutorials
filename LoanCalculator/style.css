@@ -1,0 +1,6 @@
+.wsize{
+    width: 100%;
+}
+#loading, #results{
+    display: none;
+}
